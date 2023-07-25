@@ -10,7 +10,6 @@ $BloatwareList = @(
 		"Microsoft.SecHealthUI"
 		"Microsoft.People"
 		"Microsoft.Todos"
-		#"Microsoft.Windows.Photos"
 		"Microsoft.WindowsAlarms"
 		"Microsoft.WindowsCamera"
 		"microsoft.windowscommunicationsapps"
